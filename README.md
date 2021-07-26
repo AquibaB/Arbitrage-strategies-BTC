@@ -12,15 +12,15 @@ This project uses Python 3.7 and imports the following packages:
 
 ## Lessons Learned
 
-1- Upload CSV file with the price information from the two exchanges.
+1- Uploaded CSV file with the price information from the two exchanges.
 
-2- Clean up the data.
+2- Cleaned up the data.
 
-3- Analyze information with different timeframes (monthly and specific dates)
+3- Analyzed information with different timeframes (monthly and specific dates)
 
-4- Get summary statistics and plot the data
+4- Got summary statistics and plotted the data
 
-5- Calculate arbitrage profits and identify profitable trade opportunities
+5- Calculated arbitrage profits and identified profitable trade opportunities
 
 ## Contributors
 

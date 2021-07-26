@@ -1,6 +1,6 @@
 # Arbitrage Opportunities in BTC (Challenge #3 of FinTech Bootcamp)
 
-In this Challenge, I created several calculations to take advantage of price inefficiencies between Coinbase and Bitstamp in 2018.
+In this Challenge, I created several calculations to take advantage of Bitcoin's price inefficiencies in 2018 between two crypto exchanges, Coinbase and Bitstamp.
 
 ## Technologies
 
